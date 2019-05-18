@@ -1,0 +1,12 @@
+
+
+
+Next fit - you start your search for the next seat from the last seat you allotted rather than the start.
+
+
+if coil < 5 - remove it
+New rope only if all are full
+
+
+
+
